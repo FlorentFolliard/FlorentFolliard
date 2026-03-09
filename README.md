@@ -16,14 +16,14 @@
 ### 🚀 Projects & Education
 
 * 🌱 I’m currently studying **Computer Science** at Paris Ynov Campus, specialized in **Data Science** (B1 IA/Data).
-* 🔭 I’m currently working on a [Data Analysis Project (NASA)](https://https://github.com/FlorentFolliard/Projet_Ydays_Nasa).
+* 🔭 I’m currently working on a [Data Analysis Project (NASA)](https://github.com/FlorentFolliard/Projet_Ydays_Nasa).
 
 ---
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florent-f-0a2456156/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23323330?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florent.folliard@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%2307405e.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florent-f-0a2456156/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23323330?style=for-the-badge&logo=gmail&logoColor=white)](florent.folliard@gmail.com)
 
 ---
 *I will keep updating this area as my portfolio. So stick around to see what I'm working on!*
