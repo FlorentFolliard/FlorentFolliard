@@ -23,7 +23,7 @@
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%2307405e.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florent-f-0a2456156/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23323330?style=for-the-badge&logo=gmail&logoColor=white)](florent.folliard@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23323330?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florent.folliard@gmail.com)
 
 ---
 *I will keep updating this area as my portfolio. So stick around to see what I'm working on!*
