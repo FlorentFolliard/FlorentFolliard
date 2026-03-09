@@ -1,16 +1,29 @@
-## Hi there 👋
+## Welcome in my Git page !
 
-<!--
-**FlorentFolliard/FlorentFolliard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### Bio
+After several years of labour work, I decided to start studying again at 30yo in order to become a Data scientist.
+I may not be the youngest student, but I already have the professional experience of being in a team in a corporate environment, which helped me develop my soft skills.
+---
 
-Here are some ideas to get you started:
+- 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
+- 🌱 I’m currently studying **computer science** in Paris Ynov Campus, specialized in **data science** (B1 IA/Data)
+
+
+- 🔭 I’m currently working on a [data analysis project](github.com/FlorentFolliard/Projet-Ydays-Nasa.git)
+
+
+- 📫 If you're interested in collaborating with me, you can reach me here : 
+
+[Linkedin](https://www.linkedin.com/in/florent-f-0a2456156/)
+
+[Email](florent.folliard@gmail.com)
+
+
+*I will keep updating this area as my portfolio. So stick around to see what I'm working on !*
