@@ -19,8 +19,8 @@ My career goal is to become a data scientist in space research industry.
 ### 🚀 Projects & Education
 
 * 🌱 I’m currently studying **Computer Science** at Paris Ynov Campus, specialized in **Data Science** (B1 IA/Data).
-* 🔭 I’m currently working on a [data analysis project](https://github.com/FlorentFolliard/Projet_Ydays_Nasa) with Near Earth Objects API provided by NASA.
-* I'm also working on a [remote sensing project](https://github.com/FlorentFolliard/Trou-noir-explorer) to enhance my skills in remote sensing + machine learning.
+* 🔭 I’m currently working on a [data analysis project](https://github.com/FlorentFolliard/Projet_Ydays_Nasa) which highlights potential hazardous objects from space.
+* I'm also working on a [remote sensing project](https://github.com/FlorentFolliard/Trou-noir-explorer) to develop an ML model that identifies black holes.
 
 ---
 
