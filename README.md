@@ -3,6 +3,9 @@
 > After several years in the non-tech industry, I pivoted my career towards Data Science at 30yo. 
 > I may not be the youngest student, but I already have the professional experience of being in a team in a corporate environment, which helped me develop my soft skills.
 
+I have a great interest in space research, espacially in identifying big celestial objects like black holes.
+My career goal is to become a data scientist in space research industry.
+
 ---
 
 ### 🛠️ Skills
