@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=200&section=header&text=Recherche%20Spatiale&fontSize=40&fontColor=E0E0E0&animation=fadeIn" alt="Bandeau Espace">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=200&section=header&text=Welcome%20to%20my%20Git%20page%20!%20👋&fontSize=40&fontColor=E0E0E0&animation=fadeIn" alt="Bandeau Espace">
 </div>
 
 <br>
 
-
-# Welcome to my Git page ! 👋
-
 > After several years in the non-tech industry, I pivoted my career towards Data Science at 30yo. 
 > I may not be the youngest student, but I already have the professional experience of being in a team in a corporate environment, which helped me develop my soft skills.
+
+I have a great interest in space research, espacially in identifying big celestial objects like black holes.
+My career goal is to become a data scientist in space research industry.
 
 ---
 
@@ -23,7 +23,8 @@
 ### 🚀 Projects & Education
 
 * 🌱 I’m currently studying **Computer Science** at Paris Ynov Campus, specialized in **Data Science** (B1 IA/Data).
-* 🔭 I’m currently working on a [Data Analysis Project (NASA)](https://github.com/FlorentFolliard/Projet_Ydays_Nasa).
+* 🔭 I’m currently working on a [data analysis project](https://github.com/FlorentFolliard/Projet_Ydays_Nasa) which highlights potential hazardous objects from space.
+* I'm also working on a [remote sensing project](https://github.com/FlorentFolliard/Trou-noir-explorer) to develop an ML model that identifies black holes.
 
 ---
 
