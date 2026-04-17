@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=010B19&height=200&section=header&text=Welcome%20to%20my%20Git%20page%20!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Bandeau Espace">
 </div>
 
@@ -16,7 +16,7 @@ Une sélection de mes projets d'analyse de données et d'exploration technique.
 
 
 
-<p align="center">
+<p align="left">
   <img src="assets/neo.png" alt="neo" width="200">
 </p>
 
