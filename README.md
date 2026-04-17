@@ -35,3 +35,30 @@ My career goal is to become a data scientist in space research industry.
 
 ---
 *I will keep updating this area as my portfolio. So stick around to see what I'm working on!*
+
+
+### 🌌 Journal de Bord des Projets
+
+---
+
+#### [🔭 Projet Ydays NeoWs](https://github.com/FlorentFolliard/Projet-Ydays-Nasa)
+> Analyse de données sur les géocroiseurs potentiellement dangereux.
+
+<a href="https://github.com/FlorentFolliard/Projet-Ydays-Nasa">
+  <img src="https://img.shields.io/badge/Status-Actif-success?style=flat-square&logo=github&color=00C853" alt="Statut Actif">
+</a>
+<a href="https://github.com/FlorentFolliard/Projet-Ydays-Nasa">
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Pandas-%231F2937?style=flat-square&logo=python" alt="Tech Stack">
+</a>
+
+---
+
+#### [🛰️ Projet Trou noir Explorer](https://github.com/FlorentFolliard/Trou-Noir-Explorer)
+> Modèle machine learning à partir de données spectroscopiques de quasars et étoiles.
+
+<a href="https://github.com/FlorentFolliard/Trou-Noir-Explorer">
+  <img src="https://img.shields.io/badge/Status-Maintien-warning?style=flat-square&logo=github&color=FFD600" alt="Statut Maintien">
+</a>
+<a href="https://github.com/FlorentFolliard/Trou-Noir-Explorer">
+  <img src="https://img.shields.io/badge/Stack-C%2B%2B%20%7C%20ROS-%231F2937?style=flat-square&logo=c%2B%2B" alt="Tech Stack">
+</a>
