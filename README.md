@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=200&section=header&text=Welcome%20to%20my%20Git%20page%20!%20👋&fontSize=40&fontColor=E0E0E0&animation=fadeIn" alt="Bandeau Espace">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=200&section=header&text=Welcome%20to%20my%20Git%20page%20!%20👋&fontSize=40&fontColor=010B19&animation=fadeIn" alt="Bandeau Espace">
 </div>
 
 <br>
@@ -14,12 +14,21 @@
 
 Une sélection de mes projets d'analyse de données et d'exploration technique.
 
+
+
+<p align="center">
+  <img src="assets/neo.png" alt="neo" width="800">
+</p>
+
 ### [🔭 Projet Ydays NeoWs](https://github.com/FlorentFolliard/Projet_Ydays_Nasa)
 > **Objectif :** Automatisation de la récupération et visualisation des astéroïdes potentiellement dangereux via l'API 'NeoWs' de la NASA.
 * **Stack :** `Python (Requests, Pandas)` • `Power BI`
 * **Key Feature :** Dashboard dynamique classant les objets par distance de passage et vitesse relative.
 
 ---
+<p align="center">
+  <img src="assets/quasar.jpg" alt="neo" width="800">
+</p>
 
 ### [🛰️ Projet Trou noir Explorer](https://github.com/FlorentFolliard/Trou-Noir-Explorer)
 > **Objectif :** Algorithme de Machine Learning pour distinguer les quasars des étoiles à partir des catalogues Gaia, WISE et SDSS.
