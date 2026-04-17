@@ -16,11 +16,11 @@ My career goal is to become a data scientist in the space research industry.
 
 <p align="center">
   <a href="https://github.com/FlorentFolliard/Trou-Noir-Explorer">
-    <img src="https://raw.githubusercontent.com/FlorentFolliard/FlorentFolliard/assets/quasar.png" alt="Mission Event Horizon" width="200" height="50" style="margin: 5px; border-radius: 4px;">
+    <img src="https://raw.githubusercontent.com/FlorentFolliard/FlorentFolliard/main/assets/quasar.png" alt="Mission Event Horizon" width="200" height="50" style="margin: 5px; border-radius: 4px;">
   </a>
   
   <a href="https://github.com/FlorentFolliard/Projet_Ydays_Nasa">
-    <img src="https://raw.githubusercontent.com/FlorentFolliard/FlorentFolliard/assets/neo.jpg" alt="Mission NeoWs Tracker" width="200" height="50" style="margin: 5px; border-radius: 4px;">
+    <img src="https://raw.githubusercontent.com/FlorentFolliard/FlorentFolliard/main/assets/neo.jpg" alt="Mission NeoWs Tracker" width="200" height="50" style="margin: 5px; border-radius: 4px;">
   </a>
 </p>
 
