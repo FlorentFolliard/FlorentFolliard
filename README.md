@@ -26,7 +26,7 @@ Une sélection de mes projets d'analyse de données et d'exploration technique.
 * **Key Feature :** Dashboard dynamique classant les objets par distance de passage et vitesse relative.
 
 ---
-<p align="center">
+<p align="left">
   <img src="assets/quasar.jpg" alt="neo" width="200">
 </p>
 
