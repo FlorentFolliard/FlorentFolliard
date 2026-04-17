@@ -14,16 +14,16 @@
 
 Une sélection de mes projets d'analyse de données et d'exploration technique.
 
-### [🔭 Projet Ydays NeoWs](https://github.com/ton-pseudo/projet-asteroides)
+### [🔭 Projet Ydays NeoWs](https://github.com/FlorentFolliard/Projet_Ydays_Nasa)
 > **Objectif :** Automatisation de la récupération et visualisation des astéroïdes potentiellement dangereux via l'API 'NeoWs' de la NASA.
 * **Stack :** `Python (Requests, Pandas)` • `Power BI`
 * **Key Feature :** Dashboard dynamique classant les objets par distance de passage et vitesse relative.
 
 ---
 
-### [🛰️ Projet Trou noir Explorer](https://github.com/ton-pseudo/projet-classification)
+### [🛰️ Projet Trou noir Explorer](https://github.com/FlorentFolliard/Trou-Noir-Explorer)
 > **Objectif :** Algorithme de Machine Learning pour distinguer les quasars des étoiles à partir des catalogues Gaia, WISE et SDSS.
-* **Stack :** `Scikit-learn` • `SQL (BigQuery)` • `Python`
+* **Stack :** `Scikit-learn` • `SQL` • `Python`
 * **Key Feature :** Utilisation de diagrammes couleur-couleur pour l'extraction de features astronomiques.
 
 ---
