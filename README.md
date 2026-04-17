@@ -4,43 +4,35 @@
 
 <br>
 
-> After several years in the non-tech industry, I pivoted my career towards Data Science at 30yo. 
-> I may not be the youngest student, but I already have the professional experience of being in a team in a corporate environment, which helped me develop my soft skills.
+# 👨‍🚀 Florent — Explorateur de Données
 
-I have a great interest in space research, espacially in remote sensing.
-My career goal is to become a data scientist in the space research industry.
+> *Étudiant en Data Science (B1 IA/Data) passionné par l'astronomie.*
 
 ---
 
-### 🚀 Journal de Bord des Missions (Projets)
+## 🚀 Journal de Bord des Missions
 
-<p align="center">
-  <a href="https://github.com/FlorentFolliard/Trou-Noir-Explorer">
-    <img src="https://raw.githubusercontent.com/FlorentFolliard/FlorentFolliard/main/assets/quasar.png" alt="Mission Event Horizon" width="200" height="50" style="margin: 5px; border-radius: 4px;">
-  </a>
-  
-  <a href="https://github.com/FlorentFolliard/Projet_Ydays_Nasa">
-    <img src="https://raw.githubusercontent.com/FlorentFolliard/FlorentFolliard/main/assets/neo.jpg" alt="Mission NeoWs Tracker" width="200" height="50" style="margin: 5px; border-radius: 4px;">
-  </a>
-</p>
+Une sélection de mes projets d'analyse de données et d'exploration technique.
 
-<br>
+### [🔭 Projet Ydays NeoWs](https://github.com/ton-pseudo/projet-asteroides)
+> **Objectif :** Automatisation de la récupération et visualisation des astéroïdes potentiellement dangereux via l'API 'NeoWs' de la NASA.
+* **Stack :** `Python (Requests, Pandas)` • `Power BI`
+* **Key Feature :** Dashboard dynamique classant les objets par distance de passage et vitesse relative.
 
 ---
 
-### 🛠️ Skills
+### [🛰️ Projet Trou noir Explorer](https://github.com/ton-pseudo/projet-classification)
+> **Objectif :** Algorithme de Machine Learning pour distinguer les quasars des étoiles à partir des catalogues Gaia, WISE et SDSS.
+* **Stack :** `Scikit-learn` • `SQL (BigQuery)` • `Python`
+* **Key Feature :** Utilisation de diagrammes couleur-couleur pour l'extraction de features astronomiques.
+
+---
+
+### 🛠️ Arsenal Technique
 
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-%2307405e?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-%2307405e?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Jupyter Notebook](https://img.shields.io/badge/jupyter_notebook-%2307405e.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ![Go](https://img.shields.io/badge/go-%23323330.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### 🚀 Projects & Education
-
-* 🌱 I’m currently studying **Computer Science** at Paris Ynov Campus, specialized in **Data Science** (B1 IA/Data).
-* 🔭 I’m currently working on a [data analysis project](https://github.com/FlorentFolliard/Projet_Ydays_Nasa) which highlights potential hazardous objects from space.
-* I'm also working on a [remote sensing project](https://github.com/FlorentFolliard/Trou-noir-explorer) to develop an ML model that identifies black holes.
 
 ---
 
