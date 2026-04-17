@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=200&section=header&text=Recherche%20Spatiale&fontSize=40&fontColor=E0E0E0&animation=fadeIn" alt="Bandeau Espace">
+</div>
+
+<br>
+
+
 # Welcome to my Git page ! 👋
 
 > After several years in the non-tech industry, I pivoted my career towards Data Science at 30yo. 
