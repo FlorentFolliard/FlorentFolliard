@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=200&section=header&text=Welcome%20to%20my%20Git%20page%20!%20👋&fontSize=40&fontColor=010B19&animation=fadeIn" alt="Bandeau Espace">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=010B19&height=200&section=header&text=Welcome%20to%20my%20Git%20page%20!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Bandeau Espace">
 </div>
 
 <br>
@@ -17,7 +17,7 @@ Une sélection de mes projets d'analyse de données et d'exploration technique.
 
 
 <p align="center">
-  <img src="assets/neo.png" alt="neo" width="800">
+  <img src="assets/neo.png" alt="neo" width="200">
 </p>
 
 ### [🔭 Projet Ydays NeoWs](https://github.com/FlorentFolliard/Projet_Ydays_Nasa)
@@ -27,7 +27,7 @@ Une sélection de mes projets d'analyse de données et d'exploration technique.
 
 ---
 <p align="center">
-  <img src="assets/quasar.jpg" alt="neo" width="800">
+  <img src="assets/quasar.jpg" alt="neo" width="200">
 </p>
 
 ### [🛰️ Projet Trou noir Explorer](https://github.com/FlorentFolliard/Trou-Noir-Explorer)
