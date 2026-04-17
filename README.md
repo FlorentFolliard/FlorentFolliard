@@ -7,8 +7,24 @@
 > After several years in the non-tech industry, I pivoted my career towards Data Science at 30yo. 
 > I may not be the youngest student, but I already have the professional experience of being in a team in a corporate environment, which helped me develop my soft skills.
 
-I have a great interest in space research, espacially in identifying big celestial objects like black holes.
-My career goal is to become a data scientist in space research industry.
+I have a great interest in space research, espacially in remote sensing.
+My career goal is to become a data scientist in the space research industry.
+
+---
+
+### 🚀 Journal de Bord des Missions (Projets)
+
+<p align="center">
+  <a href="https://github.com/FlorentFolliard/Trou-Noir-Explorer">
+    <img src="https://raw.githubusercontent.com/FlorentFolliard/FlorentFolliard/assets/quasar.png" alt="Mission Event Horizon" width="200" height="50" style="margin: 5px; border-radius: 4px;">
+  </a>
+  
+  <a href="https://github.com/FlorentFolliard/Projet_Ydays_Nasa">
+    <img src="https://raw.githubusercontent.com/FlorentFolliard/FlorentFolliard/assets/neo.jpg" alt="Mission NeoWs Tracker" width="200" height="50" style="margin: 5px; border-radius: 4px;">
+  </a>
+</p>
+
+<br>
 
 ---
 
@@ -37,16 +53,3 @@ My career goal is to become a data scientist in space research industry.
 *I will keep updating this area as my portfolio. So stick around to see what I'm working on!*
 
 
-### 🚀 Mes Missions de Recherche
-
-<div align="center">
-
-  <a href="https://github.com/FlorentFolliard/Projet_Ydays_Nasa">
-    <img src="https://img.shields.io/badge/Projet%20AuriGami-%231F2937.svg?style=for-the-badge&logo=rocket&logoColor=cyan&labelColor=111827&color=00FFFF" alt="Projet Ydays NeoWs">
-  </a>
-  &nbsp; <a href="https://github.com/FlorentFolliard/Trou-Noir-Explorer">
-    <img src="https://img.shields.io/badge/Satellite%20Tracker-%231F2937.svg?style=for-the-badge&logo=satellite&logoColor=orchid&labelColor=111827&color=BA55D3" alt="Projet Trou noir Explorer">
-  </a>
-  &nbsp;
-
-</div>
